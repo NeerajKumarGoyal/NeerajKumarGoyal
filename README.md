@@ -8,7 +8,8 @@ I'm a Graduate with a Bachelor of Technology (B.Tech) degree in Computer Science
 - **Name:** Neeraj Kumar Goyal
 - **Education:** Bachelor of Technology in Computer Science Engineering in 2023
 - **Email:** neerajkumargoyal216@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/neerajkumargoyal1
+- **LinkedIn:** https://www.linkedin.com/in/neerajkumargoyal16
+- **Learning:** Web Development and Salesforce 
 
 ## Skills
 
@@ -17,7 +18,7 @@ I have experience and expertise in the following areas:
 - **Programming Languages:** C++, Python, HTML, CSS, JavaScript
 - **Version Control:** Git, GitHub
 - **Operating Systems:** Proficient in Windows
-- **Salesforce Development:** Knowledge in Salesforce development
+
 <!--
 ## Projects
 
