@@ -9,7 +9,7 @@ I'm a Graduate with a Bachelor of Technology (B.Tech) degree in Computer Science
 - **Education:** Bachelor of Technology in Computer Science Engineering in 2023
 - **Email:** neerajkumargoyal216@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/neerajkumargoyal16
-- **Learning:** Web Development and Salesforce 
+- **Currently Learning about:** Web Development and Salesforce 
 
 ## Skills
 
