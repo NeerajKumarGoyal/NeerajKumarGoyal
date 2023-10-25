@@ -25,7 +25,7 @@ Here are a few notable projects you can find in my repositories:
 
 1. **Sign Language to Text Converter**
    - **Description:** Python-based GUI using CNN and OpenCV to translate American Sign Language into text.
-   - **Repository:** [Link to Repository](https://github.com/NeerajKumarGoyal/SigntoLanguageConverter.git)
+   - **Repository:** [Link to Repository](https://github.com/NeerajKumarGoyal/SignLanguagetoTextConverter.git)
 <!--
 2. **Car Showroom Management System with Data Visualization**
    - **Description:** Python project for managing customer reservations and visualizing data using Tkinter and Matplotlib.
