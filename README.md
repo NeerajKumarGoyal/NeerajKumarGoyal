@@ -17,7 +17,7 @@ I have experience and expertise in the following areas:
 
 - **Programming Languages:** C++, Python, HTML, CSS, JavaScript
 - **Version Control:** Git, GitHub
-- **Operating Systems:** Proficient in Windows
+  
 
 <!--
 ## Projects
