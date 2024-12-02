@@ -34,8 +34,9 @@ You can find the source code for each project in their respective repositories. 
 
 I'm continuously learning and exploring new technologies, particularly in the field of software engineering. I'm actively seeking software engineer jobs to contribute to innovative projects and companies in the tech industry. You can expect to see more exciting projects and contributions from me in the future. If you'd like to collaborate on a project or have any questions, don't hesitate to reach out. I'm open to connecting with like-minded developers and enthusiasts.
 
+
 ## Contact Me
 
-If you'd like to get in touch, collaborate on a project, or have any questions, feel free to reach out to me via email or through my LinkedIn profile. I'm always open to new opportunities and connections.
+If you'd like to get in touch, collaborate on a project, or have any questions, feel free to reach out to me via email or through my [LinkedIn profile](https://www.linkedin.com/in/neerajkumargoyal16). I'm always open to new opportunities and connections.
 
 Thank you for visiting my GitHub profile! Happy coding! 🚀
